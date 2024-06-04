@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#navbar{
+  background-color: black;
+  color: white;
+  height: 9vh;
+}
+#hero{
+  background-color: rgb(223, 223, 223);
+}
+#Search_bar{
+  width: 80%;
+  margin: 10px;
+  
+}
+#btn{
+  width: 20%;
+  background-color: black;
+  color: white;
+  margin: 10px;
+}
+#search_container{
+  display: flex;
+}
+#btn-container{
+  display: flex;
+  justify-content: space-evenly;
+}
+#btn-container button{
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 5px;
+}
+#Student-table{
+  margin: 15px;
+  width: 95%;
+  
+}
+/*#gender{
+  display: flex;
+  margin: 10px;
+  
+}*/
+img{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: none;
+}
+#gender table{
+  width: 95%;
+  margin: 10px;
+}
